@@ -1,5 +1,5 @@
 I'm John Slegers, full stack web developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/> <b>Belgium</b>. </p>
-<h3>Prefered technology</h3>
+<h3>Prefered tech</h3>
 <p>
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="JavaScript Cloud Platform" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -17,7 +17,7 @@ I'm John Slegers, full stack web developer from <img src="https://cdn-icons-png.
 | <a href="https://github.com/jslegers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jslegers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/jslegers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslegers&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h3>Featured open source projects</h3>
+<h3>Featured projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
