@@ -1,4 +1,4 @@
-I'm John Slegers, full stack web developer from [<img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/>](https://cdn-icons-png.flaticon.com/512/299/299783.png) **Belgium**.
+I'm John Slegers, a full stack web developer from [<img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/>](https://cdn-icons-png.flaticon.com/512/299/299783.png) **Belgium**.
 
 ### Preferred tech
 
