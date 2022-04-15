@@ -1,6 +1,6 @@
 I'm John Slegers, full stack web developer from [<img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/>](https://cdn-icons-png.flaticon.com/512/299/299783.png) **Belgium**.
 
-### Prefered tech
+### Preferred tech
 
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=JavaScript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=CSS3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-B7178C?style=flat-square&logo=sass&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-764ABC?style=flat-square&logo=PHP&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-007ACC?style=flat-square&logo=mySQL&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-ff0000?style=flat-square&logo=npm&logoColor=white)
 
