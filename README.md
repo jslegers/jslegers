@@ -6,7 +6,7 @@ I'm John Slegers, full stack web developer from [<img src="https://cdn-icons-png
 
 ### Stats
 
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=jslegers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/jslegers/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jslegers&layout=compact&theme=buefy&hide_border=true)](https://github.com/jslegers/github-readme-stats) |
+| [![Github stats](https://github-readme-stats.vercel.app/api?username=jslegers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/jslegers?tab=repositories) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jslegers&layout=compact&theme=buefy&hide_border=true)](https://github.com/jslegers?tab=repositories) |
 | ------------- | ------------- |
 
 ### Featured projects
