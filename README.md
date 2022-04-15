@@ -11,8 +11,11 @@ I'm John Slegers, full stack web developer from <img src="https://cdn-icons-png.
   <img alt="npm" src="https://img.shields.io/badge/-NPM-ff0000?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h3>Github stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jslegers&show_icons=true" alt="jslegers" />
+<h3>Stats</h3>
+
+
+| <a href="https://github.com/jslegers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jslegers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/jslegers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslegers&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h3>Featured open source projects</h3>
 <table>
