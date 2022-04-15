@@ -28,7 +28,10 @@ I'm John Slegers, full stack web developer from [<img src="https://cdn-icons-png
 
 ### Where to find me
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jslegers) [![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1946501/john-slegers) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnslegers) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnslegers/) [![Medium](https://img.shields.io/badge/medium-1a8917.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://johnslegers.medium.com/)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jslegers)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnslegers)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1946501/john-slegers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnslegers/)
 
 __________
 
