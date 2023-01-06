@@ -1,5 +1,11 @@
 I'm John Slegers, an R&D software developer / full stack web developer from [<img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/>](https://cdn-icons-png.flaticon.com/512/299/299783.png) **Belgium**.
 
+I give free apps, AI models & other stuff to the world
+
+<a href="https://www.buymeacoffee.com/johnslegers" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162px !important;" >
+</a>
+
 ### Preferred tech
 
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=JavaScript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=CSS3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-B7178C?style=flat-square&logo=sass&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-764ABC?style=flat-square&logo=PHP&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-007ACC?style=flat-square&logo=mySQL&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-ff0000?style=flat-square&logo=npm&logoColor=white)
@@ -33,6 +39,7 @@ I'm John Slegers, an R&D software developer / full stack web developer from [<im
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnslegers)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1946501/john-slegers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnslegers/)
+[![Hugginface](https://img.shields.io/badge/%F0%9F%A4%97_huggingface-d58020.svg?style=for-the-badge)](https://huggingface.co/johnslegers)
 
 __________
 
