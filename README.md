@@ -41,13 +41,9 @@ I give countless free apps, AI models, AI prompts & other stuff to the world
 
 ### Where to find me
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jslegers)
-[![Codepen](https://img.shields.io/badge/Codepen-ffdd40.svg?style=for-the-badge&logo=Codepen&logoColor=black)](https://codepen.io/jslegers)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnslegers)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1946501/john-slegers)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnslegers/)
-[![Hugginface](https://img.shields.io/badge/%F0%9F%A4%97_huggingface-d58020.svg?style=for-the-badge)](https://huggingface.co/johnslegers)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jslegers) [![StackOverflow](https://img.shields.io/badge/StackOverflow-f48225.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1946501/john-slegers) [![Hugginface](https://img.shields.io/badge/%F0%9F%A4%97_huggingface-d58020.svg?style=for-the-badge)](https://huggingface.co/johnslegers) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnslegers/)
 
-__________
-
+[disabled]: [![Codepen](https://img.shields.io/badge/Codepen-ffdd40.svg?style=for-the-badge&logo=Codepen&logoColor=black)](https://codepen.io/jslegers)
+[disabled]: [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnslegers)
+[disabled]: __________
 [disabled]:[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21b232hdtomwlj4qrovr4e63q&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/21b232hdtomwlj4qrovr4e63q)
